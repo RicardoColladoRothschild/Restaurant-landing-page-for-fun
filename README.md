@@ -14,7 +14,6 @@ Landing page para un restaurante construida con **Next.js 15**, **React**, y **T
 
 ![Landing Page Screenshot](./public/screenshot.png)
 
-> Puedes reemplazar `screenshot.png` por el nombre de tu imagen o una URL si es externa.
 
 ## 🧱 Estructura de la app
 
