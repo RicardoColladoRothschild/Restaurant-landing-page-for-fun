@@ -2,7 +2,7 @@ import ServiceCard from './ServiceCard/ServiceCard';
 import {services} from './Types/index';
 export default function ServicesComponents() {
   return (
-    <div className="relative w-full h-[30%] bg-cover bg-center bg-[url('/foodtable.png')]">
+    <div className="relative w-full h-[45%] bg-cover bg-center bg-[url('/foodtable.png')]">
 
       <div className="absolute inset-0 bg-white bg-opacity-50" />
 
